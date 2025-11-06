@@ -130,7 +130,7 @@ A large share of restaurants in major metros (like Bengaluru and Kolkata) showed
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 - Customer segmentation distribution 
 - City-wise restaurant recovery 
